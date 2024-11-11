@@ -1,6 +1,6 @@
-# Mkeep Chain - Decentralized Memory Vault
+# Keep Chain - Decentralized Memory Vault
 
-**Mkeep Chain** is a decentralized platform for securely storing and organizing photo memories and documents. Users can upload files, add tags, and store them using IPFS and layer-2 solutions, ensuring fast, affordable transactions on the blockchain. The project integrates **The Graph Protocol** to enable efficient querying for easy file retrieval.
+**Keep Chain** is a decentralized platform for securely storing and organizing photo memories and documents. Users can upload files, add tags, and store them using IPFS and layer-2 solutions, ensuring fast, affordable transactions on the blockchain. The project integrates **The Graph Protocol** to enable efficient querying for easy file retrieval.
 
 ## 🚀 Features
 
